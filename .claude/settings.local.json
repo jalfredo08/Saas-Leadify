@@ -1,7 +1,7 @@
 {
   "permissions": {
     "allow": [
-      "Bash(vercel --prod:*)"
+      "Bash(npx vercel --prod --yes)"
     ]
   }
 }
